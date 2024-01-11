@@ -1,5 +1,5 @@
 {
-    "products" : [
+  "products": [
     {
       "id": 1,
       "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
@@ -122,7 +122,7 @@
         "rate": 2.6,
         "count": 235
       },
-      "featured":true
+      "featured": true
     },
     {
       "id": 11,
