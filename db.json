@@ -2,7 +2,7 @@
   "products": [
     {
       "id": "1a",
-      "title": "Backpack",
+      "title": "Suite & shirt",
       "price": 109.95,
       "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
       "category": "men's clothing",
@@ -29,7 +29,7 @@
     },
     {
       "id": "3a",
-      "title": "Cotton Jacket",
+      "title": "shirt with Cap",
       "price": 55.99,
       "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
       "category": "men's clothing",
@@ -42,7 +42,7 @@
     },
     {
       "id": "4a",
-      "title": "Chain Bracelet",
+      "title": "Diamond Chain",
       "price": 695,
       "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
       "category": "jewelery",
@@ -56,7 +56,7 @@
     },
     {
       "id": "5a",
-      "title": "Petite Micropave ",
+      "title": "Pendent Chain ",
       "price": 168,
       "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
       "category": "jewelery",
@@ -69,7 +69,7 @@
     },
     {
       "id": "6a",
-      "title": "Plated Princess",
+      "title": "Pearl Chain",
       "price": 9.99,
       "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
       "category": "jewelery",
@@ -82,7 +82,7 @@
     },
     {
       "id": "7a",
-      "title": "External Hard Drive",
+      "title": "Apple Watch",
       "price": 64,
       "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
       "category": "electronics",
@@ -108,7 +108,7 @@
     },
     {
       "id": "9a",
-      "title": "Silicon Power",
+      "title": "Laptop",
       "price": 109,
       "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
       "category": "electronics",
@@ -121,7 +121,7 @@
     },
     {
       "id": "10a",
-      "title": "Snowboard Jacket Winter Coats",
+      "title": "Blue Kurtha",
       "price": 56.99,
       "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
       "category": "women's clothing",
@@ -135,7 +135,7 @@
     },
     {
       "id": "11a",
-      "title": "Moto Biker Jacket",
+      "title": "Red Anarkali Dress",
       "price": 29.95,
       "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
       "category": "women's clothing",
